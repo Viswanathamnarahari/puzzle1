@@ -33,5 +33,5 @@ cstrip = (14,4)
 #print expandStrip(cstrip)
 zpattern=[]
 calculateZeros(10,4)
-pprint zpattern
+print zpattern
 
