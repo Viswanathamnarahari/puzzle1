@@ -3,5 +3,20 @@
 
     <string name="app_name">Literature</string>
     <string name="hello_world">Hello world!</string>
+	
+
+		<string-array name="planets_array">
+			<item>P1</item>
+			<item>P2</item>
+			<item>P3</item>
+			<item>P4</item>
+			<item>P5</item>
+			<item>P6</item>
+			<item>P7</item>
+			<item>P8</item>
+			<item>P9</item>
+			
+		</string-array>
+	
 
 </resources>
