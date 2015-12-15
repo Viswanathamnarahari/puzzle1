@@ -21,7 +21,7 @@
 			android:id="@+id/resp_by"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:minWidth="59dp"/>
+			android:minWidth="60dp"/>
 
 		<Spinner
 			android:id="@+id/asked_for"
